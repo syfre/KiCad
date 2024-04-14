@@ -1,0 +1,19 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# MyConn3
+#
+DEF MyConn3 J 0 40 Y Y 1 F N
+F0 "J" -50 -200 60 H V C CNN
+F1 "MyConn3" 0 200 60 H V C CNN
+F2 "" -50 -200 60 H I C CNN
+F3 "" -50 -200 60 H I C CNN
+DRAW
+S -150 100 150 -100 0 1 0 N
+X VCC 1 350 50 200 L 50 50 1 1 W
+X INOUT 2 350 0 200 L 50 50 1 1 I
+X GND 3 350 -50 200 L 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+#End Library

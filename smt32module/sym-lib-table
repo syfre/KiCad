@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name Smt32Module-rescue)(type Legacy)(uri ${KIPRJMOD}/Smt32Module-rescue.lib)(options "")(descr ""))
+  (lib (name ad7793)(type Legacy)(uri ${KIPRJMOD}/library/ad7793.lib)(options "")(descr ""))
+  (lib (name smt32f103module)(type Legacy)(uri ${KIPRJMOD}/library/smt32f103module.lib)(options "")(descr ""))
+  (lib (name tft28-320x240-14pin)(type Legacy)(uri ${KIPRJMOD}/library/tft28-320x240-14pin.lib)(options "")(descr ""))
+)

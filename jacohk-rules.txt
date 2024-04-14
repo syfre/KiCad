@@ -1,0 +1,20 @@
+ PCB Manufacturing Capabilities
+
+No. of Layer(s): 	1 to 20 Layers, Single Sided & Double Sided
+Materials: 	FR1, FR4, CEM-1, CEM-3,
+high-frequency board (Isola, Shengyi & etc…)
+Copper Thickness: 	1oz. to 3oz.
+Board Thickness: 	0.3mm to 3.0mm
+Surface Finishing: 	HASL, LEAD FREE HASL,
+ENIG, Electrolytic Gold, OSP
+Soldermask: 	Green, Red, Blue, White, Black & Matte Black
+Silkscreen: 	White & Black
+Maximum Board Dimension: 	500mm x 500mm
+Minimum Trace Width: 	5mil
+Minimum Separation: 	5mil
+Minimum Drill Size: 	12mil
+Minimum Via Size 	12mil
+Minimum Trace to Edge of PCB: 	10mil
+Minimum Drill to Edge of PCB 	20mil
+Electrical Test: 	For Single and Double Sided PCB
+Flying Probe Test: 	For Multilayer PCB
